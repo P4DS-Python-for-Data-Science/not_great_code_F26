@@ -1,0 +1,748 @@
+,set_num,name_x,year,theme_id,num_parts,id,name_y,parent_id
+979,10075-1,Spider-Man Action Pack,2002,488,25,488,Spider-Man,482.0
+980,1374-1,Green Goblin,2002,488,59,488,Spider-Man,482.0
+981,1376-1,Spider-Man Action Studio,2002,488,249,488,Spider-Man,482.0
+982,30302-1,Spider-Man,2014,488,45,488,Spider-Man,482.0
+983,30305-1,Spider-Man Super Jumper,2015,488,38,488,Spider-Man,482.0
+984,30448-1,Spider-Man vs. The Venom Symbiote,2016,488,49,488,Spider-Man,482.0
+985,4850-1,Spider-Man's First Chase,2003,488,190,488,Spider-Man,482.0
+986,4851-1,The Origins,2003,488,219,488,Spider-Man,482.0
+987,4852-1,The Final Showdown,2003,488,359,488,Spider-Man,482.0
+988,4853-1,Spider-Man's Street Chase,2004,488,81,488,Spider-Man,482.0
+989,4854-1,Doc Ock's Bank Robbery,2004,488,173,488,Spider-Man,482.0
+990,4855-1,Spider-Man's Train Rescue,2004,488,298,488,Spider-Man,482.0
+991,4856-1,Doc Ock's Hideout,2004,488,485,488,Spider-Man,482.0
+992,4857-1,Doc Ock's Fusion Lab,2004,488,237,488,Spider-Man,482.0
+993,5002125-1,Electro,2015,488,5,488,Spider-Man,482.0
+994,65518-1,"Spider-Man Co-Pack 1 (4853, 4857)",2004,488,2,488,Spider-Man,482.0
+995,65572-1,Spider-Man Co-Pack,2005,488,3,488,Spider-Man,482.0
+996,6873-1,Spider-Man's Doc Ock Ambush,2012,488,295,488,Spider-Man,482.0
+997,76004-1,Spider-Man: Spider-Cycle Chase,2013,488,236,488,Spider-Man,482.0
+998,76005-1,Spider-Man: Daily Bugle Showdown,2013,488,473,488,Spider-Man,482.0
+999,76014-1,Spider-Trike vs. Electro,2014,488,69,488,Spider-Man,482.0
+1000,76015-1,Doc Ock Truck Heist,2014,488,236,488,Spider-Man,482.0
+1001,76016-1,Spider-Helicopter Rescue,2014,488,298,488,Spider-Man,482.0
+1002,76057-1,Spider-Man: Web Warriors Ultimate Bridge Battle,2016,488,1090,488,Spider-Man,482.0
+1003,76058-1,Spider-Man: Ghost Rider Team-up,2016,488,216,488,Spider-Man,482.0
+1004,76059-1,Spider-Man: Doc Ock's Tentacle Trap,2016,488,445,488,Spider-Man,482.0
+1005,76071-1,Mighty Micros: Spider-Man vs. Scorpion ,2017,488,79,488,Spider-Man,482.0
+1006,comcon023-1,Super Heroes Unite - Venom - San Diego Comic-Con 2012 Exclusive,2012,488,3,488,Spider-Man,482.0
+1007,comcon027-1,Spiderwoman - San Diego Comic-Con 2013 Exclusive,2013,488,0,488,Spider-Man,482.0
+1008,comcon028-1,Spider-Man - San Diego Comic-Con 2013 Exclusive,2013,488,1,488,Spider-Man,482.0
+1009,K1376-1,Spider-Man Adventure Kit,2003,488,3,488,Spider-Man,482.0
+1010,K4852-1,Spider-Man Movie Kit,2003,488,5,488,Spider-Man,482.0
+1110,10123-1,Cloud City,2003,169,707,169,Star Wars Episode 4/5/6,158.0
+1111,10131-1,TIE Fighter Collection,2004,169,688,169,Star Wars Episode 4/5/6,158.0
+1112,10144-1,Sandcrawler,2005,169,1679,169,Star Wars Episode 4/5/6,158.0
+1113,10178-1,Motorized Walking AT-AT,2007,169,1137,169,Star Wars Episode 4/5/6,158.0
+1114,10198-1,Tantive IV,2009,169,1408,169,Star Wars Episode 4/5/6,158.0
+1115,10236-1,Ewok Village,2013,169,2023,169,Star Wars Episode 4/5/6,158.0
+1116,2853590-1,Stormtrooper,2009,169,5,169,Star Wars Episode 4/5/6,158.0
+1117,30005-1,Imperial Speeder Bike,2009,169,33,169,Star Wars Episode 4/5/6,158.0
+1118,3341-1,Star Wars #2 - Luke/Han/Boba Minifig Pack,2000,169,25,169,Star Wars Episode 4/5/6,158.0
+1119,3342-1,Star Wars #3 - Troopers/Chewie Minifig Pack,2000,169,25,169,Star Wars Episode 4/5/6,158.0
+1120,4195641-1,Star Wars Co-Pack of 7142 and 7152,2002,169,2,169,Star Wars Episode 4/5/6,158.0
+1121,445062-1,Star Wars Co-Pack of 4500 and 4504,2004,169,2,169,Star Wars Episode 4/5/6,158.0
+1122,4475-1,Jabba's Message,2003,169,46,169,Star Wars Episode 4/5/6,158.0
+1123,4476-1,Jabba's Prize,2003,169,40,169,Star Wars Episode 4/5/6,158.0
+1124,4477-1,T-16 Skyhopper,2003,169,98,169,Star Wars Episode 4/5/6,158.0
+1125,4479-1,TIE Bomber,2003,169,229,169,Star Wars Episode 4/5/6,158.0
+1126,4480-1,Jabba's Palace,2003,169,234,169,Star Wars Episode 4/5/6,158.0
+1127,4483-1,"AT-AT, black box",2003,169,1070,169,Star Wars Episode 4/5/6,158.0
+1128,4483-2,"AT-AT, blue box",2004,169,1070,169,Star Wars Episode 4/5/6,158.0
+1129,4500-1,Rebel Snowspeeder [Redesign] - Blue box,2003,169,216,169,Star Wars Episode 4/5/6,158.0
+1130,4500-2,"Rebel Snowspeeder (redesign), Original Trilogy Edition box",2004,169,211,169,Star Wars Episode 4/5/6,158.0
+1131,4501-1,"Mos Eisley Cantina, Blue box",2003,169,197,169,Star Wars Episode 4/5/6,158.0
+1132,4501-2,"Mos Eisley Cantina, Original Trilogy Edition box",2004,169,194,169,Star Wars Episode 4/5/6,158.0
+1133,4502-1,"X-wing Fighter (Dagobah), Blue box",2003,169,566,169,Star Wars Episode 4/5/6,158.0
+1134,4502-2,"X-wing Fighter (Dagobah), Original Trilogy Edition box",2004,169,565,169,Star Wars Episode 4/5/6,158.0
+1135,4504-1,"Millennium Falcon (Redesign), Blue box",2003,169,996,169,Star Wars Episode 4/5/6,158.0
+1136,4504-2,"Millennium Falcon (Redesign), Original Trilogy Edition box",2003,169,979,169,Star Wars Episode 4/5/6,158.0
+1137,4591726-1,Stormtrooper,2009,169,1,169,Star Wars Episode 4/5/6,158.0
+1138,6206-1,TIE Interceptor,2006,169,212,169,Star Wars Episode 4/5/6,158.0
+1139,6207-1,A-wing Fighter,2006,169,193,169,Star Wars Episode 4/5/6,158.0
+1140,6208-1,B-wing Fighter,2006,169,439,169,Star Wars Episode 4/5/6,158.0
+1141,6209-1,Slave I (2nd edition),2006,169,537,169,Star Wars Episode 4/5/6,158.0
+1142,6210-1,Jabba's Sail Barge,2006,169,781,169,Star Wars Episode 4/5/6,158.0
+1143,6211-1,Imperial Star Destroyer,2006,169,1388,169,Star Wars Episode 4/5/6,158.0
+1144,6212-1,X-wing Fighter,2006,169,437,169,Star Wars Episode 4/5/6,158.0
+1145,65030-1,Star Wars Co-Pack of 7104 and 7144,2001,169,2,169,Star Wars Episode 4/5/6,158.0
+1146,65145-1,X-wing Fighter / TIE Fighter & Y-wing Collectors Set,2002,169,2,169,Star Wars Episode 4/5/6,158.0
+1147,66221-1,X-wing Fighter and Luke Pilot Maquette Co-Pack (TRU Exclusive),2007,169,1,169,Star Wars Episode 4/5/6,158.0
+1148,66308-1,Star Wars Super Pack 3 in 1 (7667 7668 8017),2009,169,3,169,Star Wars Episode 4/5/6,158.0
+1149,66364-1,Star Wars Super Pack 3 in 1 (7749 8083 8084),2010,169,3,169,Star Wars Episode 4/5/6,158.0
+1150,66366-1,Star Wars Super Pack  3 in 1 (8089 8083 7749),2010,169,3,169,Star Wars Episode 4/5/6,158.0
+1151,66368-1,Star Wars Super Pack 3 in 1 (8083 8084 8092),2010,169,3,169,Star Wars Episode 4/5/6,158.0
+1152,7104-1,Desert Skiff,2000,169,55,169,Star Wars Episode 4/5/6,158.0
+1153,7106-1,Droid Escape,2001,169,45,169,Star Wars Episode 4/5/6,158.0
+1154,7110-1,Landspeeder,1999,169,49,169,Star Wars Episode 4/5/6,158.0
+1155,7119-1,Twin-Pod Cloud Car,2002,169,118,169,Star Wars Episode 4/5/6,158.0
+1156,7127-1,Imperial AT-ST,2001,169,107,169,Star Wars Episode 4/5/6,158.0
+1157,7128-1,Speeder Bikes,1999,169,93,169,Star Wars Episode 4/5/6,158.0
+1158,7130-1,Snowspeeder,1999,169,217,169,Star Wars Episode 4/5/6,158.0
+1159,7134-1,A-wing Fighter,2000,169,125,169,Star Wars Episode 4/5/6,158.0
+1160,7139-1,Ewok Attack,2002,169,121,169,Star Wars Episode 4/5/6,158.0
+1161,7140-1,X-wing Fighter,1999,169,271,169,Star Wars Episode 4/5/6,158.0
+1162,7142-1,X-wing Fighter (re-release of 7140),2002,169,273,169,Star Wars Episode 4/5/6,158.0
+1163,7144-1,Slave I,2000,169,166,169,Star Wars Episode 4/5/6,158.0
+1164,7146-1,TIE Fighter,2001,169,171,169,Star Wars Episode 4/5/6,158.0
+1165,7150-1,TIE Fighter & Y-wing,1999,169,410,169,Star Wars Episode 4/5/6,158.0
+1166,7152-1,TIE Fighter & Y-wing (re-release of 7150),2002,169,411,169,Star Wars Episode 4/5/6,158.0
+1167,7166-1,Imperial Shuttle,2001,169,238,169,Star Wars Episode 4/5/6,158.0
+1168,7180-1,B-wing at Rebel Control Center,2000,169,346,169,Star Wars Episode 4/5/6,158.0
+1169,7190-1,Millennium Falcon,2000,169,671,169,Star Wars Episode 4/5/6,158.0
+1170,7200-1,Final Duel I,2002,169,32,169,Star Wars Episode 4/5/6,158.0
+1171,7201-1,Final Duel II,2002,169,26,169,Star Wars Episode 4/5/6,158.0
+1172,7262-1,TIE Fighter and Y-wing (TRU exclusive re-release),2004,169,415,169,Star Wars Episode 4/5/6,158.0
+1173,7263-1,TIE Fighter,2005,169,159,169,Star Wars Episode 4/5/6,158.0
+1174,7264-1,Imperial Inspection,2005,169,378,169,Star Wars Episode 4/5/6,158.0
+1175,75003-1,A-wing Starfighter,2013,169,177,169,Star Wars Episode 4/5/6,158.0
+1176,75005-1,Rancor Pit,2013,169,380,169,Star Wars Episode 4/5/6,158.0
+1177,75014-1,Battle Of Hoth,2013,169,415,169,Star Wars Episode 4/5/6,158.0
+1178,75020-1,Jabba’s Sail Barge,2013,169,848,169,Star Wars Episode 4/5/6,158.0
+1179,75052-1,Mos Eisley Cantina,2014,169,614,169,Star Wars Episode 4/5/6,158.0
+1180,75054-1,AT-AT,2014,169,1136,169,Star Wars Episode 4/5/6,158.0
+1181,75059-1,Sandcrawler,2014,169,3294,169,Star Wars Episode 4/5/6,158.0
+1182,75081-1,T-16 Skyhopper,2015,169,246,169,Star Wars Episode 4/5/6,158.0
+1183,75093-1,Death Star Final Duel,2015,169,722,169,Star Wars Episode 4/5/6,158.0
+1184,75136-1,Droid Escape Pod,2016,169,196,169,Star Wars Episode 4/5/6,158.0
+1185,75137-1,Carbon-Freezing Chamber,2016,169,231,169,Star Wars Episode 4/5/6,158.0
+1186,75138-1,Hoth Attack,2016,169,230,169,Star Wars Episode 4/5/6,158.0
+1187,75173-1,Luke's Landspeeder,2017,169,148,169,Star Wars Episode 4/5/6,158.0
+1188,75532-1,"Scout Trooper"" & Speeder Bike",2017,169,447,169,Star Wars Episode 4/5/6,158.0
+1189,7657-1,AT-ST,2007,169,243,169,Star Wars Episode 4/5/6,158.0
+1190,7658-1,Y-wing Fighter,2007,169,454,169,Star Wars Episode 4/5/6,158.0
+1191,7659-1,Imperial Landing Craft,2007,169,471,169,Star Wars Episode 4/5/6,158.0
+1192,7666-1,Hoth Rebel Base [Limited Edition - with K-3PO],2007,169,557,169,Star Wars Episode 4/5/6,158.0
+1193,7749-1,Echo Base,2009,169,155,169,Star Wars Episode 4/5/6,158.0
+1194,7754-1,Home One Mon Calamari Star Cruiser - Limited Edition,2009,169,788,169,Star Wars Episode 4/5/6,158.0
+1195,7778-1,Midi-Scale Millennium Falcon,2009,169,355,169,Star Wars Episode 4/5/6,158.0
+1196,7879-1,Hoth Echo Base,2011,169,764,169,Star Wars Episode 4/5/6,158.0
+1197,7956-1,Ewok Attack,2011,169,166,169,Star Wars Episode 4/5/6,158.0
+1198,7965-1,Millennium Falcon,2011,169,1253,169,Star Wars Episode 4/5/6,158.0
+1199,8017-1,Darth Vader's TIE Fighter,2009,169,250,169,Star Wars Episode 4/5/6,158.0
+1200,8038-1,The Battle of Endor,2009,169,890,169,Star Wars Episode 4/5/6,158.0
+1201,8083-1,Rebel Trooper Battle Pack,2010,169,79,169,Star Wars Episode 4/5/6,158.0
+1202,8084-1,Snowtrooper Battle Pack,2010,169,74,169,Star Wars Episode 4/5/6,158.0
+1203,8089-1,Hoth Wampa Cave,2010,169,296,169,Star Wars Episode 4/5/6,158.0
+1204,8092-1,Luke's Landspeeder,2010,169,163,169,Star Wars Episode 4/5/6,158.0
+1205,8097-1,Slave I (Third Edition) [Initial Release],2010,169,562,169,Star Wars Episode 4/5/6,158.0
+1206,8099-1,Midi-Scale Imperial Star Destroyer,2010,169,423,169,Star Wars Episode 4/5/6,158.0
+1207,8129-1,AT-AT Walker,2010,169,811,169,Star Wars Episode 4/5/6,158.0
+1208,9489-1,Endor Rebel Trooper & Imperial Trooper Battle Pack,2012,169,77,169,Star Wars Episode 4/5/6,158.0
+1209,9490-1,Droid Escape,2012,169,136,169,Star Wars Episode 4/5/6,158.0
+1210,9492-1,TIE Fighter,2012,169,413,169,Star Wars Episode 4/5/6,158.0
+1211,9493-1,X-wing Starfighter,2012,169,559,169,Star Wars Episode 4/5/6,158.0
+1212,9495-1,Gold Leader's Y-wing Starfighter,2012,169,457,169,Star Wars Episode 4/5/6,158.0
+1213,9496-1,Desert Skiff,2012,169,220,169,Star Wars Episode 4/5/6,158.0
+1214,9516-1,Jabba’s Palace,2012,169,716,169,Star Wars Episode 4/5/6,158.0
+1215,9676-1,TIE Interceptor & Death Star,2012,169,65,169,Star Wars Episode 4/5/6,158.0
+1216,celebvi-1,Boba Fett’s Slave I - Mini - Star Wars Celebration VI Exclusive,2012,169,81,169,Star Wars Episode 4/5/6,158.0
+1217,comcon005-1,Collectible Display Set 2 - San Diego Comic-Con 2009 Exclusive,2009,169,12,169,Star Wars Episode 4/5/6,158.0
+1218,comcon007-1,Collectible Display Set 5 - San Diego Comic-Con 2009 Exclusive,2009,169,17,169,Star Wars Episode 4/5/6,158.0
+1219,comcon008-1,Collectible Display Set 3 - San Diego Comic-Con 2009 Exclusive,2009,169,16,169,Star Wars Episode 4/5/6,158.0
+1220,comcon024-1,Luke Skywalker's Landspeeder - Mini - New York Comic-Con 2012 Exclusive,2012,169,110,169,Star Wars Episode 4/5/6,158.0
+1221,K10131-1,Battle of Yavin Collection,2004,169,3,169,Star Wars Episode 4/5/6,158.0
+1222,K4479-1,TIE Bomber & TIE Fighter Kit,2003,169,2,169,Star Wars Episode 4/5/6,158.0
+1223,K4480-1,Jabba's Palace Kit,2003,169,3,169,Star Wars Episode 4/5/6,158.0
+1224,sw218promo-1,Darth Vader 10 Year Anniversary Promotional Fig polybag,2009,169,2,169,Star Wars Episode 4/5/6,158.0
+1225,SWMP-1,Star Wars / M&M Mosaic - Promo Set,2005,169,5461,169,Star Wars Episode 4/5/6,158.0
+1226,VP-2,Star Wars Co-Pack of 7110 and 7144,2001,169,2,169,Star Wars Episode 4/5/6,158.0
+1227,VP-8,Star Wars Co-Pack of 7130 and 7150,2000,169,2,169,Star Wars Episode 4/5/6,158.0
+1564,10195-1,Republic Dropship with AT-OT,2009,165,1757,165,Star Wars Clone Wars,158.0
+1565,30004-1,Battle Droid on STAP,2009,165,23,165,Star Wars Clone Wars,158.0
+1566,30006-1,Clone Walker,2009,165,31,165,Star Wars Clone Wars,158.0
+1567,4649858-1,Shadow ARF Trooper Promotional Polybag,2011,165,5,165,Star Wars Clone Wars,158.0
+1568,5001709-1,Clone Trooper Lieutenant,2013,165,4,165,Star Wars Clone Wars,158.0
+1569,66341-1,Star Wars Super Pack 3 in 1 (8014 8015 8091),2010,165,3,165,Star Wars Clone Wars,158.0
+1570,66377-1,Star Wars Super Pack 3 in 1 (7869 7913 7914),2011,165,3,165,Star Wars Clone Wars,158.0
+1571,66378-1,Star Wars Super Pack 3 in 1 (8085 7913 7914),2011,165,3,165,Star Wars Clone Wars,158.0
+1572,75002-1,AT-RT,2013,165,222,165,Star Wars Clone Wars,158.0
+1573,75004-1,Z-95 Headhunter,2013,165,371,165,Star Wars Clone Wars,158.0
+1574,75012-1,BARC Speeder with Sidecar,2013,165,225,165,Star Wars Clone Wars,158.0
+1575,75013-1,Umbaran MHC (Mobile Heavy Cannon),2013,165,491,165,Star Wars Clone Wars,158.0
+1576,75024-1,HH-87 Starhopper,2014,165,361,165,Star Wars Clone Wars,158.0
+1577,75087-1,Anakin's Custom Jedi Starfighter,2015,165,369,165,Star Wars Clone Wars,158.0
+1578,75168-1,Yoda's Jedi Starfighter,2017,165,262,165,Star Wars Clone Wars,158.0
+1579,7669-1,Anakin's Jedi Starfighter,2008,165,152,165,Star Wars Clone Wars,158.0
+1580,7669-2,Anakin's Jedi Starfighter Clone Wars White Box,2008,165,144,165,Star Wars Clone Wars,158.0
+1581,7670-2,Hailfire Droid & Spider Droid Clone Wars White Box,2008,165,249,165,Star Wars Clone Wars,158.0
+1582,7673-1,Magna Guard Starfighter,2008,165,430,165,Star Wars Clone Wars,158.0
+1583,7674-1,V-19 Torrent,2008,165,470,165,Star Wars Clone Wars,158.0
+1584,7675-1,AT-TE Walker,2008,165,809,165,Star Wars Clone Wars,158.0
+1585,7676-1,Republic Attack Gunship,2008,165,1033,165,Star Wars Clone Wars,158.0
+1586,7679-1,Republic Fighter Tank,2008,165,595,165,Star Wars Clone Wars,158.0
+1587,7680-1,The Twilight - Limited Edition,2008,165,887,165,Star Wars Clone Wars,158.0
+1588,7681-1,Separatist Spider Droid,2008,165,214,165,Star Wars Clone Wars,158.0
+1589,7748-1,Corporate Alliance Tank Droid,2009,165,216,165,Star Wars Clone Wars,158.0
+1590,7751-1,Ahsoka's Starfighter and Vulture Droid,2009,165,290,165,Star Wars Clone Wars,158.0
+1591,7752-1,Count Dooku's Solar Sailer,2009,165,384,165,Star Wars Clone Wars,158.0
+1592,7753-1,Pirate Tank,2009,165,371,165,Star Wars Clone Wars,158.0
+1593,7868-1,Mace Windu's Jedi Starfighter,2011,165,308,165,Star Wars Clone Wars,158.0
+1594,7869-1,Battle for Geonosis,2011,165,335,165,Star Wars Clone Wars,158.0
+1595,7913-1,Clone Trooper Battle Pack,2011,165,85,165,Star Wars Clone Wars,158.0
+1596,7914-1,Mandalorian Battle Pack,2011,165,68,165,Star Wars Clone Wars,158.0
+1597,7930-1,Bounty Hunter Gunship,2011,165,389,165,Star Wars Clone Wars,158.0
+1598,7931-1,T6 Jedi Shuttle,2011,165,391,165,Star Wars Clone Wars,158.0
+1599,7957-1,Sith Nightspeeder,2011,165,213,165,Star Wars Clone Wars,158.0
+1600,7959-1,Geonosian Starfighter,2011,165,163,165,Star Wars Clone Wars,158.0
+1601,7964-1,Republic Frigate,2011,165,1030,165,Star Wars Clone Wars,158.0
+1602,8014-1,Clone Walker Battle Pack,2009,165,79,165,Star Wars Clone Wars,158.0
+1603,8015-1,Assassin Droids Battle Pack,2009,165,94,165,Star Wars Clone Wars,158.0
+1604,8016-1,Hyena Droid Bomber,2009,165,231,165,Star Wars Clone Wars,158.0
+1605,8018-1,Armored Assault Tank (AAT),2009,165,406,165,Star Wars Clone Wars,158.0
+1606,8019-1,Republic Attack Shuttle,2009,165,636,165,Star Wars Clone Wars,158.0
+1607,8036-1,Separatist Shuttle,2009,165,258,165,Star Wars Clone Wars,158.0
+1608,8037-1,Anakin's Y-wing Starfighter,2009,165,569,165,Star Wars Clone Wars,158.0
+1609,8039-1,Venator-Class Republic Attack Cruiser,2009,165,1168,165,Star Wars Clone Wars,158.0
+1610,8085-1,Freeco Speeder,2010,165,176,165,Star Wars Clone Wars,158.0
+1611,8086-1,Droid Tri-Fighter,2010,165,267,165,Star Wars Clone Wars,158.0
+1612,8088-1,ARC-170 Starfighter,2010,165,395,165,Star Wars Clone Wars,158.0
+1613,8091-1,Republic Swamp Speeder - Limited Edition,2010,165,175,165,Star Wars Clone Wars,158.0
+1614,8095-1,General Grievous’ Starfighter,2010,165,453,165,Star Wars Clone Wars,158.0
+1615,8098-1,Clone Turbo Tank,2010,165,1142,165,Star Wars Clone Wars,158.0
+1616,8128-1,Cad Bane's Speeder,2010,165,317,165,Star Wars Clone Wars,158.0
+1617,9488-1,Elite Clone Trooper & Commando Droid Battle Pack,2012,165,105,165,Star Wars Clone Wars,158.0
+1618,9491-1,Geonosian Cannon,2012,165,133,165,Star Wars Clone Wars,158.0
+1619,9498-1,Saesee Tiin's Jedi Starfighter,2012,165,243,165,Star Wars Clone Wars,158.0
+1620,9515-1,Malevolence,2012,165,1098,165,Star Wars Clone Wars,158.0
+1621,9525-1,Pre Vizsla's Mandalorian Fighter,2012,165,399,165,Star Wars Clone Wars,158.0
+1622,comcon001-1,Clone Wars Pack - San Diego Comic-Con 2008 Exclusive,2008,165,12,165,Star Wars Clone Wars,158.0
+1623,comcon004-1,Collectible Display Set 1 - San Diego Comic-Con 2009 Exclusive,2009,165,5,165,Star Wars Clone Wars,158.0
+1624,comcon006-1,Collectible Display Set 4 - San Diego Comic-Con 2009 Exclusive,2009,165,30,165,Star Wars Clone Wars,158.0
+1625,comcon009-1,Collectible Display Set 6 - San Diego Comic-Con 2009 Exclusive,2009,165,5,165,Star Wars Clone Wars,158.0
+1868,10225-1,R2-D2,2012,171,2130,171,Ultimate Collector Series,158.0
+1885,10237-1,The Tower of Orthanc,2013,568,2360,568,The Two Towers,566.0
+1886,5001130-1,The Battle of Helm's Deep Collection,2012,568,2,568,The Two Towers,566.0
+1887,9471-1,Uruk-hai Army,2012,568,257,568,The Two Towers,566.0
+1888,9474-1,The Battle of Helm’s Deep,2012,568,1365,568,The Two Towers,566.0
+1889,9476-1,The Orc Forge,2012,568,362,568,The Two Towers,566.0
+3523,10937-1,Arkham Asylum Breakout,2012,484,1619,484,Batman,482.0
+3524,30160-1,Bat Jetski,2012,484,40,484,Batman,482.0
+3525,30161-1,Batmobile,2012,484,45,484,Batman,482.0
+3526,30164-1,Lex Luthor,2012,484,17,484,Batman,482.0
+3527,30166-1,Robin and Redbird Cycle,2013,484,40,484,Batman,482.0
+3528,30300-1,The Batman Tumbler,2014,484,57,484,Batman,482.0
+3529,30301-1,Batwing,2014,484,45,484,Batman,482.0
+3530,30303-1,The Joker Bumper Car,2015,484,47,484,Batman,482.0
+3531,30446-1,The Batmobile,2016,484,63,484,Batman,482.0
+3532,30521-1,The Mini Batmobile,2017,484,68,484,Batman,482.0
+3533,30522-1,Batman in the Phantom Zone polybag,2016,484,59,484,Batman,482.0
+3534,30523-1,The Joker Battle Training,2017,484,49,484,Batman,482.0
+3535,30524-1,The Mini Batwing,2017,484,80,484,Batman,482.0
+3536,30603-1,Batman Classic TV Series - Mr. Freeze,2016,484,16,484,Batman,482.0
+3537,30607-1,Disco Batman - Tears of Batman,2017,484,13,484,Batman,482.0
+3538,5004590-1,Bat Pod,2015,484,338,484,Batman,482.0
+3539,6857-1,The Dynamic Duo Funhouse Escape,2012,484,378,484,Batman,482.0
+3540,6858-1,Catwoman Catcycle City Chase,2012,484,89,484,Batman,482.0
+3541,6860-1,The Batcave,2012,484,689,484,Batman,482.0
+3542,6863-1,Batwing Battle Over Gotham City,2012,484,277,484,Batman,482.0
+3543,6864-1,Batmobile and the Two-Face Chase,2012,484,541,484,Batman,482.0
+3544,70900-1,The Joker Balloon Escape,2017,484,123,484,Batman,482.0
+3545,70901-1,Mr. Freeze Ice Attack,2017,484,195,484,Batman,482.0
+3546,70902-1,Catwoman Catcycle Chase,2017,484,138,484,Batman,482.0
+3547,70903-1,The Riddler Riddle Racer,2017,484,253,484,Batman,482.0
+3548,70904,Clayface Splat Attack,2017,484,0,484,Batman,482.0
+3549,70904-1,"Clayface"" Splat Attack",2017,484,448,484,Batman,482.0
+3550,70905-1,The Batmobile,2017,484,580,484,Batman,482.0
+3551,70906,LEGO® Batman Movie - The Joker™ Notorious Lowrider,2017,484,0,484,Batman,482.0
+3552,70906-1,"The Joker"" Notorious Lowrider",2017,484,431,484,Batman,482.0
+3553,70907-1,Killer Croc Tail-Gator,2017,484,459,484,Batman,482.0
+3554,70908-1,The Scuttler,2017,484,774,484,Batman,482.0
+3555,70909-1,Batcave Break-in,2017,484,1042,484,Batman,482.0
+3556,70910-1,"Scarecrow"" Special Delivery",2017,484,203,484,Batman,482.0
+3557,70911-1,The Penguin™ Arctic Roller,2017,484,304,484,Batman,482.0
+3558,70912-1,Arkham Asylum,2017,484,1621,484,Batman,482.0
+3559,70913-1,"Scarecrow"" Fearful Face-off",2017,484,140,484,Batman,482.0
+3560,70914-1,"Bane"" Toxic Truck Attack",2017,484,365,484,Batman,482.0
+3561,70915-1,"Two-Face"" Double Demolition",2017,484,563,484,Batman,482.0
+3562,70916-1,The Batwing,2017,484,1052,484,Batman,482.0
+3563,71017-1,Lobster-Lovin’ Batman™,2017,484,7,484,Batman,482.0
+3564,71017-10,Pink Power Batgirl™,2017,484,8,484,Batman,482.0
+3565,71017-11,Red Hood™,2017,484,8,484,Batman,482.0
+3566,71017-12,The Eraser™,2017,484,6,484,Batman,482.0
+3567,71017-13,Nurse Harley Quinn™,2017,484,7,484,Batman,482.0
+3568,71017-14,Orca™,2017,484,5,484,Batman,482.0
+3569,71017-15,Zodiac Master™,2017,484,6,484,Batman,482.0
+3570,71017-16,Catman™,2017,484,9,484,Batman,482.0
+3571,71017-17,March Harriet™,2017,484,6,484,Batman,482.0
+3572,71017-18,The Calculator™,2017,484,8,484,Batman,482.0
+3573,71017-19,King Tut™,2017,484,7,484,Batman,482.0
+3574,71017-2,Glam Metal Batman™,2017,484,8,484,Batman,482.0
+3575,71017-20,The Mime™,2017,484,7,484,Batman,482.0
+3576,71017-3,Fairy Batman™,2017,484,8,484,Batman,482.0
+3577,71017-4,Clan of the Cave Batman™,2017,484,7,484,Batman,482.0
+3578,71017-5,Vacation Batman™,2017,484,8,484,Batman,482.0
+3579,71017-6,Barbara Gordon™,2017,484,8,484,Batman,482.0
+3580,71017-7,Commissioner Gordon™,2017,484,7,484,Batman,482.0
+3581,71017-8,The Joker™ – Arkham Asylum,2017,484,6,484,Batman,482.0
+3582,71017-9,Dick Grayson™,2017,484,7,484,Batman,482.0
+3583,76000-1,Arctic Batman vs. Mr. Freeze: Aquaman on Ice,2013,484,197,484,Batman,482.0
+3584,76001-1,The Bat vs. Bane: Tumbler Chase,2013,484,366,484,Batman,482.0
+3585,76010-1,The Penguin Face Off,2014,484,136,484,Batman,482.0
+3586,76011-1,Batman: Man-Bat Attack,2014,484,183,484,Batman,482.0
+3587,76012-1,Batman: The Riddler Chase,2014,484,303,484,Batman,482.0
+3588,76013-1,The Joker Steam Roller,2014,484,485,484,Batman,482.0
+3589,76034-1,Batboat Harbor Pursuit,2015,484,263,484,Batman,482.0
+3590,76035-1,Jokerland,2015,484,1034,484,Batman,482.0
+3591,76052-1,Batman Classic TV Series - Batcave,2016,484,2470,484,Batman,482.0
+3592,76053-1,Gotham City Cycle Chase,2016,484,224,484,Batman,482.0
+3593,76054-1,Batman: Scarecrow Harvest of Fear,2016,484,561,484,Batman,482.0
+3594,76055-1,Batman: Killer Croc Sewer Smash,2016,484,757,484,Batman,482.0
+3595,76056-1,Batman: Rescue from Ra's al Ghul,2016,484,256,484,Batman,482.0
+3596,76069-1,Mighty Micros: Batman vs. Killer Moth,2017,484,83,484,Batman,482.0
+3597,7779-1,The Batman Dragster: Catwoman Pursuit,2006,484,92,484,Batman,482.0
+3598,7780-1,The Batboat: Hunt for Killer Croc,2006,484,194,484,Batman,482.0
+3599,7781-1,The Batmobile: Two-Face's Escape,2006,484,392,484,Batman,482.0
+3600,7782-1,The Batwing: The Joker's Aerial Assault,2006,484,529,484,Batman,482.0
+3601,7783-1,The Batcave: The Penguin and Mr. Freeze's Invasion,2006,484,1090,484,Batman,482.0
+3602,7785-1,Arkham Asylum,2006,484,868,484,Batman,482.0
+3603,7786-1,The Batcopter: The Chase for the Scarecrow,2007,484,299,484,Batman,482.0
+3604,7787-1,The Bat-Tank: The Riddler and Bane's Hideout,2007,484,651,484,Batman,482.0
+3605,7884-1,Batman's Buggy: The Escape of Mr. Freeze,2008,484,76,484,Batman,482.0
+3606,7885-1,Robin's Scuba Jet: Attack of The Penguin,2008,484,207,484,Batman,482.0
+3607,7886-1,The Batcycle: Harley Quinn's Hammer Truck,2008,484,273,484,Batman,482.0
+3608,7888-1,The Tumbler: Joker's Ice Cream Surprise,2008,484,456,484,Batman,482.0
+3609,comcon003-1,Batman and Joker Minifig Pack - San Diego Comic-Con 2008 Exclusive,2008,484,9,484,Batman,482.0
+3610,comcon014-1,Super Heroes Unite - Batman - San Diego Comic-Con 2011 Exclusive,2011,484,1,484,Batman,482.0
+3611,comcon018-1,Super Heroes Unite - Batman - New York Comic-Con 2011 Exclusive,2011,484,1,484,Batman,482.0
+3612,comcon037-1,Batman Classic TV Series Batmobile,2014,484,152,484,Batman,482.0
+3613,DC1-1,Commemorative Limited Edition Batman Announcement,2006,484,13,484,Batman,482.0
+3614,TRUBATSIGNAL-1,Batman Bat-Signal,2014,484,19,484,Batman,482.0
+3615,TRUJOKERMECH-1,The Joker Mini Mech Bot,2013,484,42,484,Batman,482.0
+6239,20004-1,Jungle Cruiser,2008,265,83,265,Kingdom of the Crystal Skull,264.0
+6240,7196-1,Chauchilla Cemetery Battle,2009,265,188,265,Kingdom of the Crystal Skull,264.0
+6241,7624-1,Jungle Duel,2008,265,91,265,Kingdom of the Crystal Skull,264.0
+6242,7625-1,River Chase,2008,265,233,265,Kingdom of the Crystal Skull,264.0
+6243,7626-1,Jungle Cutter,2008,265,515,265,Kingdom of the Crystal Skull,264.0
+6244,7627-1,Temple of the Crystal Skull,2008,265,929,265,Kingdom of the Crystal Skull,264.0
+6245,7628-1,Peril in Peru,2008,265,625,265,Kingdom of the Crystal Skull,264.0
+6246,comcon002-1,Indiana Jones Brickmaster Pack - San Diego Comic-Con 2008 Exclusive,2008,265,114,265,Kingdom of the Crystal Skull,264.0
+7381,2856197-1,Shadow ARF Trooper,2011,178,5,178,Minifig Pack,158.0
+7382,5000062-1,Darth Maul,2012,178,3,178,Minifig Pack,158.0
+7383,5000063-1,TC-14,2012,178,3,178,Minifig Pack,158.0
+7384,5002122-1,TC-4,2014,178,3,178,Minifig Pack,158.0
+7755,30162-1,Quinjet,2012,487,33,487,Avengers,482.0
+7756,30163-1,Thor and the Cosmic Cube,2012,487,25,487,Avengers,482.0
+7757,30165-1,Hawkeye with Equipment,2012,487,24,487,Avengers,482.0
+7758,30304-1,The Avengers Quinjet,2015,487,56,487,Avengers,482.0
+7759,5000022-1,Hulk,2012,487,4,487,Avengers,482.0
+7760,5002943-1,Winter Soldier,2015,487,1,487,Avengers,482.0
+7761,5002946-1,Silver Centurion,2016,487,0,487,Avengers,482.0
+7762,5003084-1,The Hulk,2015,487,14,487,Avengers,482.0
+7763,5004552-1,Super Heroes Avengers Collection,2015,487,6,487,Avengers,482.0
+7764,6001095-1,Hulk,2012,487,4,487,Avengers,482.0
+7765,6865-1,Captain America's Avenging Cycle,2012,487,71,487,Avengers,482.0
+7766,6867-1,Loki's Cosmic Cube Escape,2012,487,180,487,Avengers,482.0
+7767,6868-1,Hulk’s Helicarrier Breakout,2012,487,385,487,Avengers,482.0
+7768,6869-1,Quinjet Aerial Battle,2012,487,748,487,Avengers,482.0
+7769,76017-1,Captain America vs. Hydra,2014,487,179,487,Avengers,482.0
+7770,76018-1,Hulk Lab Smash,2014,487,396,487,Avengers,482.0
+7771,76029-1,Iron Man vs. Ultron,2015,487,92,487,Avengers,482.0
+7772,76030-1,Avengers Hydra Showdown,2015,487,219,487,Avengers,482.0
+7773,76031-1,The Hulk Buster Smash,2015,487,247,487,Avengers,482.0
+7774,76032-1,The Avengers Quinjet Chase,2015,487,720,487,Avengers,482.0
+7775,76038-1,Attack on Avengers Tower,2015,487,513,487,Avengers,482.0
+7776,76041-1,The Hydra Fortress Smash,2015,487,404,487,Avengers,482.0
+7777,76042-1,The SHIELD Helicarrier,2015,487,2995,487,Avengers,482.0
+7778,76048-1,Iron Skull Sub Attack,2016,487,333,487,Avengers,482.0
+7779,76049-1,Avenjet Space Mission,2016,487,521,487,Avengers,482.0
+7780,comcon046-1,All New Captain America (Sam Wilson) - San Diego Comic-Con 2015 Exclusive,2015,487,5,487,Avengers,482.0
+7781,SDCC2015-1,Throne of Ultron,2015,487,196,487,Avengers,482.0
+7782,30167-1,Iron Man vs. Fighting Drone,2013,490,24,490,Iron Man,482.0
+7783,30168-1,Gun Mounting System,2013,490,16,490,Iron Man,482.0
+7784,76006-1,Iron Man: Extremis Sea Port Battle,2013,490,194,490,Iron Man,482.0
+7785,76007-1,Iron Man: Malibu Mansion Attack,2013,490,363,490,Iron Man,482.0
+7786,76008-1,Iron Man vs. The Mandarin: Ultimate Showdown,2013,490,91,490,Iron Man,482.0
+7822,30210-1,Frodo with Cooking Corner,2012,566,35,566,The Lord of the Rings,561.0
+7823,30211-1,Uruk Hai with Ballista,2012,566,21,566,The Lord of the Rings,561.0
+7824,5000202-1,Elrond,2012,566,6,566,The Lord of the Rings,561.0
+7825,5001132-1,The Lord of the Rings Collection,2012,566,7,566,The Lord of the Rings,561.0
+7826,30212-1,Mirkwood Elf Guard,2012,563,27,563,An Unexpected Journey,562.0
+7827,30213-1,Gandalf at Dol Guldur,2012,563,31,563,An Unexpected Journey,562.0
+7828,79000-1,Riddles for The Ring,2012,563,105,563,An Unexpected Journey,562.0
+7829,79001-1,Escape from Mirkwood Spiders,2012,563,298,563,An Unexpected Journey,562.0
+7830,79002-1,Attack of the Wargs,2012,563,400,563,An Unexpected Journey,562.0
+7831,79003-1,An Unexpected Gathering,2012,563,666,563,An Unexpected Journey,562.0
+7832,79004-1,Barrel Escape,2012,563,333,563,An Unexpected Journey,562.0
+7833,79010-1,The Goblin King Battle,2012,563,838,563,An Unexpected Journey,562.0
+7834,comcon033-1,Micro Scale Bag End - San Diego Comic-Con 2013 Exclusive,2013,563,130,563,An Unexpected Journey,562.0
+7835,30215-1,Legolas Greenleaf,2013,564,33,564,The Desolation of Smaug,562.0
+7836,30216-1,Lake-town Guard,2013,564,31,564,The Desolation of Smaug,562.0
+7837,79011-1,Dol Guldur Ambush,2013,564,217,564,The Desolation of Smaug,562.0
+7838,79012-1,Mirkwood Elf Army,2013,564,276,564,The Desolation of Smaug,562.0
+7839,79013-1,Lake-town Chase,2013,564,469,564,The Desolation of Smaug,562.0
+7840,79014-1,Dol Guldur Battle,2013,564,795,564,The Desolation of Smaug,562.0
+7871,30244-1,Anakin's Jedi Intercepter,2014,159,45,159,Mini,158.0
+7872,30272-1,A-Wing Starfighter,2015,159,58,159,Mini,158.0
+7873,30274-1,AT-DP,2015,159,65,159,Mini,158.0
+7874,30275-1,TIE Advanced Prototype,2015,159,47,159,Mini,158.0
+7875,30278-1,Poe's X-wing Fighter,2015,159,64,159,Mini,158.0
+7876,3219-1,TIE Fighter - Mini,2003,159,12,159,Mini,158.0
+7877,4207901-1,Star Wars MINI Bonus Pack,2003,159,4,159,Mini,158.0
+7878,4484-1,X-wing Fighter & TIE Advanced - Mini,2003,159,72,159,Mini,158.0
+7879,4485-1,Sebulba's Podracer & Anakin's Podracer - Mini,2003,159,72,159,Mini,158.0
+7880,4486-1,AT-ST & Snowspeeder - Mini,2003,159,76,159,Mini,158.0
+7881,4487-1,Jedi Starfighter & Slave I - Mini,2003,159,53,159,Mini,158.0
+7882,4488-1,Millennium Falcon - Mini,2003,159,87,159,Mini,158.0
+7883,4489-1,AT-AT - Mini,2003,159,98,159,Mini,158.0
+7884,4490-1,Republic Gunship - Mini,2003,159,102,159,Mini,158.0
+7885,4491-1,Trade Federation MTT - Mini,2003,159,99,159,Mini,158.0
+7886,4492-1,Imperial Star Destroyer - Mini,2004,159,87,159,Mini,158.0
+7887,4493-1,Sith Infiltrator - Mini,2004,159,55,159,Mini,158.0
+7888,4494-1,Imperial Shuttle - Mini,2004,159,82,159,Mini,158.0
+7889,4495-1,AT-TE - Mini,2004,159,63,159,Mini,158.0
+7890,66514-1,"Star Wars Microfighters Super Pack 3 in 1 (75028, 75029, 75030)",2014,159,3,159,Mini,158.0
+7891,66515-1,"Star Wars Microfighters Super Pack 3 in 1 (75031, 75032, 75033)",2014,159,3,159,Mini,158.0
+7892,6963-1,X-wing Fighter - Mini (Kabaya Box),2004,159,41,159,Mini,158.0
+7893,6963-2,X-wing Fighter - Mini (Polybag),2004,159,41,159,Mini,158.0
+7894,6964-1,Boba Fett's Slave I - Mini (Kabaya Box),2004,159,25,159,Mini,158.0
+7895,6964-2,Boba Fett's Slave I - Mini (Polybag),2004,159,25,159,Mini,158.0
+7896,6965-1,TIE Interceptor - Mini (Kabaya Box),2004,159,32,159,Mini,158.0
+7897,6966-1,Jedi Starfighter - Mini,2005,159,38,159,Mini,158.0
+7898,6966-2,Jedi Starfighter - Mini - Korean Duracell promo package with 8 AA batteries,2005,159,38,159,Mini,158.0
+7899,6967-1,ARC-170 Starfighter - Mini,2005,159,42,159,Mini,158.0
+7900,6967-2,ARC-170 Starfighter - Mini - Korean Duracell promo package with 8 AA batteries,2005,159,42,159,Mini,158.0
+7901,6968-1,Mini Wookiee Attack,2005,159,48,159,Mini,158.0
+7902,75030-1,Millennium Falcon,2014,159,94,159,Mini,158.0
+7903,75031-1,TIE Interceptor,2014,159,92,159,Mini,158.0
+7904,75032-1,X-Wing Fighter,2014,159,97,159,Mini,158.0
+7905,75033-1,Star Destroyer,2014,159,97,159,Mini,158.0
+7906,75072-1,ARC-170 Starfighter,2015,159,95,159,Mini,158.0
+7907,75073-1,Vulture Droid,2015,159,77,159,Mini,158.0
+7908,75074-1,Snowspeeder,2015,159,97,159,Mini,158.0
+7909,75075-1,AT-AT,2015,159,88,159,Mini,158.0
+7910,75076-1,Republic Gunship,2015,159,105,159,Mini,158.0
+7911,75077-1,Homing Spider Droid,2015,159,102,159,Mini,158.0
+7912,75127-1,The Ghost,2016,159,104,159,Mini,158.0
+7913,75161-1,Tie Striker Microfighter,2017,159,87,159,Mini,158.0
+7914,75163-1,Krennics Imperial Shuttle Microfighter,2017,159,77,159,Mini,158.0
+7915,8029-1,Mini Snowspeeder,2008,159,66,159,Mini,158.0
+7916,K4487-1,Star Wars Miniatures Kit I,2003,159,4,159,Mini,158.0
+7917,K4488-1,Star Wars Miniatures Kit II,2003,159,4,159,Mini,158.0
+7918,K4492-1,Star Wars Miniatures Kit III,2004,159,5,159,Mini,158.0
+7919,SW911508-1,Mini Slave 1,2015,159,20,159,Mini,158.0
+7920,SW911510-1,Star Destroyer and TIE Fighter foil pack,2015,159,21,159,Mini,158.0
+7921,SWCOMIC1-1,X-Wing,2015,159,23,159,Mini,158.0
+8035,30277-1,First Order Star Destroyer,2016,184,56,184,Star Wars Episode 7,158.0
+8036,30279-1,Kylo Ren's Command Shuttle,2016,184,43,184,Star Wars Episode 7,158.0
+8037,30605-1,Finn (FN-2187),2016,184,3,184,Star Wars Episode 7,158.0
+8038,5004406-1,First Order General,2016,184,4,184,Star Wars Episode 7,158.0
+8039,75113-1,Rey,2016,184,84,184,Star Wars Episode 7,158.0
+8040,75114-1,First Order Stormtrooper,2016,184,81,184,Star Wars Episode 7,158.0
+8041,75115-1,Poe Dameron,2016,184,101,184,Star Wars Episode 7,158.0
+8042,75116-1,Finn,2016,184,98,184,Star Wars Episode 7,158.0
+8043,75117-1,Kylo Ren,2016,184,86,184,Star Wars Episode 7,158.0
+8044,75118-1,Captain Phasma,2016,184,82,184,Star Wars Episode 7,158.0
+8045,75125-1,Resistance X-Wing Fighter,2016,184,87,184,Star Wars Episode 7,158.0
+8046,75126-1,First Order Snowspeeder,2016,184,91,184,Star Wars Episode 7,158.0
+8047,75131-1,Resistance Trooper Battle Pack,2016,184,112,184,Star Wars Episode 7,158.0
+8048,75132-1,First Order Battle Pack,2016,184,88,184,Star Wars Episode 7,158.0
+8049,75139-1,Battle on Takodana,2016,184,403,184,Star Wars Episode 7,158.0
+8050,75140-1,Resistance Troop Transporter,2016,184,644,184,Star Wars Episode 7,158.0
+8051,75148-1,Encounter on Jakku,2016,184,529,184,Star Wars Episode 7,158.0
+8052,75149-1,Resistance X-Wing Fighter,2016,184,738,184,Star Wars Episode 7,158.0
+8053,75180-1,"Rathtar"" Escape",2017,184,836,184,Star Wars Episode 7,158.0
+8115,30447-1,Captain America's Motorcycle,2016,493,25,493,Marvel,482.0
+8116,30449-1,The Milano,2017,493,64,493,Marvel,482.0
+8117,76036-1,Carnage's Shield Sky Attack,2015,493,96,493,Marvel,482.0
+8118,76037-1,Rhino and Sandman Supervillain Team-up,2015,493,385,493,Marvel,482.0
+8119,76039-1,Ant-Man Final Battle,2015,493,194,493,Marvel,482.0
+8120,76047-1,Black Panther Pursuit,2016,493,284,493,Marvel,482.0
+8121,76050-1,Crossbones’ Hazard Heist,2016,493,178,493,Marvel,482.0
+8122,76060-1,Doctor Strange's Sanctum Sanctorum,2016,493,357,493,Marvel,482.0
+8123,76067-1,Tanker Truck Takedown,2016,493,329,493,Marvel,482.0
+8124,76073-1,Mighty Micros: Wolverine vs. Magneto,2017,493,84,493,Marvel,482.0
+8125,76076-1,Captain America Jet Pursuit,2017,493,159,493,Marvel,482.0
+8126,76077-1,Iron Man: Detroit Steel Strikes,2017,493,376,493,Marvel,482.0
+8127,76078-1,Hulk vs. Red Hulk,2017,493,374,493,Marvel,482.0
+8128,76082-1,ATM Heist Battle,2017,493,184,493,Marvel,482.0
+8129,76083-1,Beware the Vulture,2017,493,374,493,Marvel,482.0
+8144,30496-1,U-Wing Fighter,2017,185,55,185,Star Wars Rogue One,158.0
+8145,75119-1,Sergeant Jyn Erso,2016,185,104,185,Star Wars Rogue One,158.0
+8146,75120-1,K-2SO,2016,185,169,185,Star Wars Rogue One,158.0
+8147,75121-1,Imperial Death Trooper,2016,185,105,185,Star Wars Rogue One,158.0
+8148,75152-1,Imperial Assault Hovertank,2016,185,385,185,Star Wars Rogue One,158.0
+8149,75153-1,AT-ST Walker,2016,185,448,185,Star Wars Rogue One,158.0
+8150,75154-1,TIE Striker,2016,185,541,185,Star Wars Rogue One,158.0
+8151,75155-1,Rebel U-Wing Fighter,2016,185,657,185,Star Wars Rogue One,158.0
+8152,75156-1,Krennic’s Imperial Shuttle,2016,185,861,185,Star Wars Rogue One,158.0
+8153,75160-1,U-wing,2017,185,108,185,Star Wars Rogue One,158.0
+8154,75164-1,Rebel Trooper Battle Pack,2017,185,119,185,Star Wars Rogue One,158.0
+8155,75165-1,Imperial Trooper Battle Pack,2017,185,112,185,Star Wars Rogue One,158.0
+8156,75171-1,Battle on Scarif,2017,185,419,185,Star Wars Rogue One,158.0
+8157,75172-1,Y-Wing Starfighter,2017,185,688,185,Star Wars Rogue One,158.0
+8467,3340-1,Star Wars #1 - Sith Minifig Pack,2000,166,30,166,Star Wars Episode 1,158.0
+8468,3343-1,Star Wars #4 - Battle Droid Minifig Pack,2000,166,33,166,Star Wars Episode 1,158.0
+8469,4151270-1,Star Wars Co-Pack of 7121 and 7111,2000,166,2,166,Star Wars Episode 1,158.0
+8470,6005188-1,Darth Maul,2012,166,8,166,Star Wars Episode 1,158.0
+8471,65028-1,Star Wars Co-Pack of 7115 7124 and 7141,2001,166,3,166,Star Wars Episode 1,158.0
+8472,65034-1,Star Wars Co-Pack of 7121 and 7161,2001,166,2,166,Star Wars Episode 1,158.0
+8473,66396-1,Star Wars Super Pack 3 in 1 (7877 7929 7913),2011,166,3,166,Star Wars Episode 1,158.0
+8474,7101-1,Lightsaber Duel,1999,166,52,166,Star Wars Episode 1,158.0
+8475,7111-1,Droid Fighter,1999,166,62,166,Star Wars Episode 1,158.0
+8476,7115-1,Gungan Patrol,2000,166,79,166,Star Wars Episode 1,158.0
+8477,7121-1,Naboo Swamp,1999,166,82,166,Star Wars Episode 1,158.0
+8478,7124-1,Flash Speeder,2000,166,107,166,Star Wars Episode 1,158.0
+8479,7126-1,Battle Droid Carrier,2001,166,133,166,Star Wars Episode 1,158.0
+8480,7131-1,Anakin's Podracer,1999,166,136,166,Star Wars Episode 1,158.0
+8481,7141-1,Naboo Fighter,1999,166,179,166,Star Wars Episode 1,158.0
+8482,7151-1,Sith Infiltrator,1999,166,244,166,Star Wars Episode 1,158.0
+8483,7155-1,Trade Federation AAT,2000,166,159,166,Star Wars Episode 1,158.0
+8484,7159-1,Star Wars Podracing Bucket,2000,166,292,166,Star Wars Episode 1,158.0
+8485,7161-1,Gungan Sub,1999,166,379,166,Star Wars Episode 1,158.0
+8486,7171-1,Mos Espa Podrace,1999,166,913,166,Star Wars Episode 1,158.0
+8487,7184-1,Trade Federation MTT,2000,166,466,166,Star Wars Episode 1,158.0
+8488,7186-1,Watto's Junkyard,2001,166,449,166,Star Wars Episode 1,158.0
+8489,7203-1,Jedi Defense I,2002,166,59,166,Star Wars Episode 1,158.0
+8490,7204-1,Jedi Defense II,2002,166,53,166,Star Wars Episode 1,158.0
+8491,75058-1,MTT,2014,166,951,166,Star Wars Episode 1,158.0
+8492,75080-1,AAT,2015,166,251,166,Star Wars Episode 1,158.0
+8493,75086-1,Battle Droid Troop Carrier,2015,166,565,166,Star Wars Episode 1,158.0
+8494,75091-1,Flash Speeder,2015,166,311,166,Star Wars Episode 1,158.0
+8495,75092-1,Naboo Starfighter,2015,166,440,166,Star Wars Episode 1,158.0
+8496,75096-1,Sith Infiltrator,2015,166,659,166,Star Wars Episode 1,158.0
+8497,75169-1,Duel on Naboo,2017,166,207,166,Star Wars Episode 1,158.0
+8498,7660-1,Naboo N-1 Starfighter and Vulture Droid,2007,166,279,166,Star Wars Episode 1,158.0
+8499,7662-1,Trade Federation MTT,2007,166,1326,166,Star Wars Episode 1,158.0
+8500,7663-1,Sith Infiltrator,2007,166,310,166,Star Wars Episode 1,158.0
+8501,7665-1,Republic Cruiser (Limited Edition - with R2-R7),2007,166,920,166,Star Wars Episode 1,158.0
+8502,7877-1,Naboo Starfighter,2011,166,317,166,Star Wars Episode 1,158.0
+8503,7929-1,The Battle of Naboo,2011,166,241,166,Star Wars Episode 1,158.0
+8504,7961-1,Darth Maul's Sith Infiltrator,2011,166,478,166,Star Wars Episode 1,158.0
+8505,7962-1,Anakin's and Sebulba's Podracers,2011,166,810,166,Star Wars Episode 1,158.0
+8506,9499-1,Gungan Sub,2012,166,464,166,Star Wars Episode 1,158.0
+8507,9674-1,Naboo Starfighter & Naboo,2012,166,56,166,Star Wars Episode 1,158.0
+8508,9675-1,Sebulba's Podracer & Tatooine,2012,166,80,166,Star Wars Episode 1,158.0
+8509,VP-11,Star Wars Co-Pack of 7101 7111 and 7131,2000,166,3,166,Star Wars Episode 1,158.0
+8510,VP-12,Star Wars Co-Pack of 7121 and 7151,2000,166,2,166,Star Wars Episode 1,158.0
+8511,VP-3,Star Wars Co-Pack of 7131 and 7151,2000,166,2,166,Star Wars Episode 1,158.0
+8512,VP-4,Star Wars Co-Pack of 7101 7111 and 7171,2000,166,3,166,Star Wars Episode 1,158.0
+9448,4478-1,"Geonosian Fighter, Black Box",2003,167,171,167,Star Wars Episode 2,158.0
+9449,4478-2,Geonosian Fighter Blue Box,2004,167,153,167,Star Wars Episode 2,158.0
+9450,4482-1,AT-TE,2003,167,650,167,Star Wars Episode 2,158.0
+9451,65106-1,Episode II Co-Pack (contains 7103 7113),2002,167,2,167,Star Wars Episode 2,158.0
+9452,65153-1,Jango Fett's Slave I (Set 7153) with Carrying Case,2002,167,1,167,Star Wars Episode 2,158.0
+9453,7103-1,Jedi Duel,2002,167,82,167,Star Wars Episode 2,158.0
+9454,7113-1,Tusken Raider Encounter,2002,167,93,167,Star Wars Episode 2,158.0
+9455,7133-1,Bounty Hunter Pursuit,2002,167,254,167,Star Wars Episode 2,158.0
+9456,7143-1,Jedi Starfighter,2002,167,139,167,Star Wars Episode 2,158.0
+9457,7153-1,Jango Fett's Slave I,2002,167,360,167,Star Wars Episode 2,158.0
+9458,7163-1,Republic Gunship,2002,167,697,167,Star Wars Episode 2,158.0
+9459,75000-1,Clone Troopers vs. Droidekas,2013,167,124,167,Star Wars Episode 2,158.0
+9460,75016-1,Homing Spider Droid,2013,167,295,167,Star Wars Episode 2,158.0
+9461,75017-1,Duel on Geonosis,2013,167,391,167,Star Wars Episode 2,158.0
+9462,75019-1,AT-TE,2013,167,792,167,Star Wars Episode 2,158.0
+9463,75021-1,Republic Gunship,2013,167,1173,167,Star Wars Episode 2,158.0
+9464,75085-1,Hailfire Droid,2015,167,163,167,Star Wars Episode 2,158.0
+9465,75142-1,Homing Spider Droid,2016,167,309,167,Star Wars Episode 2,158.0
+9466,75191-1,"Jedi Starfighter"" With Hyperdrive",2017,167,831,167,Star Wars Episode 2,158.0
+9467,7670-1,Hailfire Droid & Spider Droid,2008,167,249,167,Star Wars Episode 2,158.0
+9468,K4482-1,Episode II Final Scene Kit,2003,167,3,167,Star Wars Episode 2,158.0
+9469,K7153-1,Episode II Ultimate Action Kit,2002,167,4,167,Star Wars Episode 2,158.0
+9470,SW911612-1,Acklay,2016,167,49,167,Star Wars Episode 2,158.0
+9477,4526-1,Batman,2012,492,40,492,Constraction,482.0
+9478,4527-1,The Joker,2012,492,57,492,Constraction,482.0
+9479,4528-1,Green Lantern,2012,492,38,492,Constraction,482.0
+9480,4529-1,Iron Man,2012,492,44,492,Constraction,482.0
+9481,4530-1,The Hulk,2012,492,39,492,Constraction,482.0
+9482,4597-1,Captain America,2012,492,44,492,Constraction,482.0
+9483,5000728-1,DC Universe Super Heroes Collection,2012,492,3,492,Constraction,482.0
+9541,4597068-1,Boba Fett,2010,170,1,170,Star Wars Other,158.0
+9542,66479-1,"Super Pack 3 in 1 (75015, 75035, 75043)",2014,170,3,170,Star Wars Other,158.0
+9543,66495-1,"Star Wars Super Pack 3 in 1 (75037, 75038, 75045)",2014,170,3,170,Star Wars Other,158.0
+9544,75018-1,JEK-14's Stealth Starfighter,2013,170,548,170,Star Wars Other,158.0
+9545,75022-1,Mandalorian Speeder,2013,170,210,170,Star Wars Other,158.0
+9546,75025-1,Jedi Defender-class Cruiser,2013,170,925,170,Star Wars Other,158.0
+9547,75145-1,Eclipse Fighter,2016,170,363,170,Star Wars Other,158.0
+9548,75147-1,StarScavenger,2016,170,557,170,Star Wars Other,158.0
+9549,7664-1,TIE Crawler,2007,170,546,170,Star Wars Other,158.0
+9550,7667-1,Imperial Dropship,2008,170,80,170,Star Wars Other,158.0
+9551,7668-1,Rebel Scout Speeder,2008,170,81,170,Star Wars Other,158.0
+9552,7672-1,Rogue Shadow,2008,170,481,170,Star Wars Other,158.0
+9553,8087-1,TIE Defender,2010,170,304,170,Star Wars Other,158.0
+9554,9500-1,Sith Fury-class Interceptor,2012,170,746,170,Star Wars Other,158.0
+9555,CELEBV-1,Fan Celebration V - CubeDude - The Bounty Hunter Edition,2010,170,497,170,Star Wars Other,158.0
+9556,comcon011-1,LEGO Star Wars Holo-Brick Archives San Diego Comic-Con 2009 Exclusive,2009,170,3,170,Star Wars Other,158.0
+9557,K7204-1,Jedi Adventure Kit,2002,170,4,170,Star Wars Other,158.0
+9558,K720x-1,Story Teller Pack,2002,170,4,170,Star Wars Other,158.0
+9559,swminifigs-1,Star Wars Minifig Packs 4-Pack,2000,170,4,170,Star Wars Other,158.0
+9560,TRUGHOST-1,Rebel Micro Ghost,2014,170,42,170,Star Wars Other,158.0
+9561,TRUTIE-1,TIE Fighter,2014,170,12,170,Star Wars Other,158.0
+9562,TRUXWING-1,X-Wing,2014,170,23,170,Star Wars Other,158.0
+9563,TRUXWINGTIE-1,"TRU X-Wing Fighter & TIE Fighter (May 3, 2014)",2014,170,2,170,Star Wars Other,158.0
+9564,VP-10,Star Wars Value Pack with Free LEGO Backpack (K-Mart Australia Exclusive),2003,170,4,170,Star Wars Other,158.0
+9590,4701-1,Sorting Hat,2001,251,50,251,Sorcerer's Stone,246.0
+9591,4702-1,The Final Challenge,2001,251,61,251,Sorcerer's Stone,246.0
+9592,4704-1,The Chamber of the Winged Keys,2001,251,180,251,Sorcerer's Stone,246.0
+9593,4705-1,Snape's Class,2001,251,167,251,Sorcerer's Stone,246.0
+9594,4706-1,Forbidden Corridor,2001,251,239,251,Sorcerer's Stone,246.0
+9595,4707-1,Hagrid's Hut,2001,251,298,251,Sorcerer's Stone,246.0
+9596,4709-1,Hogwarts Castle,2001,251,696,251,Sorcerer's Stone,246.0
+9597,4711-1,Flying Lesson,2002,251,24,251,Sorcerer's Stone,246.0
+9598,4712-1,Troll on the Loose,2002,251,69,251,Sorcerer's Stone,246.0
+9599,4714-1,Gringott's Bank,2002,251,263,251,Sorcerer's Stone,246.0
+9600,4721-1,Hogwarts Classroom,2001,251,75,251,Sorcerer's Stone,246.0
+9601,4722-1,Gryffindor,2001,251,70,251,Sorcerer's Stone,246.0
+9602,4723-1,Diagon Alley Shops,2001,251,85,251,Sorcerer's Stone,246.0
+9603,K4706-1,Sorcerers Stone Kit,2002,251,7,251,Sorcerer's Stone,246.0
+9604,4719-1,Quality Quidditch Supplies,2003,247,121,247,Chamber of Secrets,246.0
+9605,4720-1,Knockturn Alley,2003,247,211,247,Chamber of Secrets,246.0
+9606,4726-1,Quidditch Practice,2002,247,131,247,Chamber of Secrets,246.0
+9607,4727-1,Aragog in the Dark Forest,2002,247,183,247,Chamber of Secrets,246.0
+9608,4728-1,Escape from Privet Drive,2002,247,282,247,Chamber of Secrets,246.0
+9609,4729-1,Dumbledore's Office,2002,247,451,247,Chamber of Secrets,246.0
+9610,4730-1,Chamber of Secrets,2002,247,597,247,Chamber of Secrets,246.0
+9611,4731-1,Dobby's Release,2002,247,71,247,Chamber of Secrets,246.0
+9612,4733-1,The Dueling Club,2002,247,133,247,Chamber of Secrets,246.0
+9613,4735-1,Slytherin,2002,247,93,247,Chamber of Secrets,246.0
+9622,4750-1,Draco's Encounter with Buckbeak,2004,250,37,250,Prisoner of Azkaban,246.0
+9623,4751-1,Harry and the Marauder's Map,2004,250,108,250,Prisoner of Azkaban,246.0
+9624,4752-1,Professor Lupin's Classroom,2004,250,158,250,Prisoner of Azkaban,246.0
+9625,4753-1,Sirius Black's Escape,2004,250,192,250,Prisoner of Azkaban,246.0
+9626,4754-1,Hagrid's Hut (2nd edition),2004,250,296,250,Prisoner of Azkaban,246.0
+9627,4755-1,Knight Bus,2004,250,244,250,Prisoner of Azkaban,246.0
+9628,4756-1,Shrieking Shack,2004,250,450,250,Prisoner of Azkaban,246.0
+9629,4757-1,Hogwarts Castle (2nd edition),2004,250,902,250,Prisoner of Azkaban,246.0
+9630,65524-1,Hogwarts Express (2nd edition) Co-Pack (contains 10132 4515 4520),2004,250,3,250,Prisoner of Azkaban,246.0
+9631,K4751-1,Marauder's Map Kit  (contains 4750 4751 4695),2004,250,3,250,Prisoner of Azkaban,246.0
+9632,K4755-1,Knight Bus Collection,2004,250,2,250,Prisoner of Azkaban,246.0
+9633,4762-1,Rescue from the Merpeople,2005,248,177,248,Goblet of Fire,246.0
+9634,4766-1,Graveyard Duel,2005,248,551,248,Goblet of Fire,246.0
+9635,4767-1,Harry and the Hungarian Horntail,2005,248,265,248,Goblet of Fire,246.0
+9636,4768-1,The Durmstrang Ship,2005,248,552,248,Goblet of Fire,246.0
+9637,4768-2,The Durmstrang Ship with Bonus Mini - Figures (Target exclusive),2005,248,544,248,Goblet of Fire,246.0
+9638,4858-1,Doc Ock's Crime Spree,2004,288,57,288,Spider-Man 2,287.0
+9639,4860-1,Doc Ock's Cafe Attack,2004,288,132,288,Spider-Man 2,287.0
+9729,5000196304-1,The Hobbit - The Battle of the Five Armies (Blu-ray with Minifigures),2015,565,7,565,The Battle of the Five Armies,562.0
+9730,5004261-1,"The Hobbit Ultimate Kit (79015, 79016, 79017, 79018)",2014,565,4,565,The Battle of the Five Armies,562.0
+9731,79015-1,Witch-King Battle,2014,565,101,565,The Battle of the Five Armies,562.0
+9732,79016-1,Attack on Lake-town,2014,565,313,565,The Battle of the Five Armies,562.0
+9733,79017-1,The Battle of the Five Armies,2014,565,471,565,The Battle of the Five Armies,562.0
+9734,79018-1,The Lonely Mountain,2014,565,864,565,The Battle of the Five Armies,562.0
+9751,5001136-1,Buildable Galaxy Collection,2012,176,3,176,Planet Series 1,158.0
+9752,5001307-1,Buildable Galaxy Collection II,2012,177,3,177,Planet Series 2,158.0
+9753,9677-1,X-wing Starfighter & Yavin 4,2012,177,77,177,Planet Series 2,158.0
+9754,9678-1,Twin-pod Cloud Car & Bespin,2012,177,78,177,Planet Series 2,158.0
+9755,9679-1,AT-ST & Endor,2012,177,65,177,Planet Series 2,158.0
+9756,5001623-1,Jor-El,2013,489,5,489,Superman,482.0
+9757,6862-2,Superman vs Power Armour Lex,2012,489,208,489,Superman,482.0
+9758,76002-1,Superman: Metropolis Showdown,2013,489,119,489,Superman,482.0
+9759,76003-1,Superman: Battle of Smallville,2013,489,417,489,Superman,482.0
+9760,76009-1,Superman: Black Zero Escape,2013,489,166,489,Superman,482.0
+9761,76068-1,Mighty Micros: Superman™ vs. Bizarro™,2017,489,93,489,Superman,482.0
+9762,comcon017-1,Super Heroes Unite - Superman - New York Comic-Con 2011 Exclusive,2011,489,5,489,Superman,482.0
+9763,comcon029-1,Black Superman - San Diego Comic-Con 2013 Exclusive,2013,489,3,489,Superman,482.0
+9764,SDCC2015-3,Action Comics #1 Superman,2015,489,145,489,Superman,482.0
+9765,5002126-1,Martian Manhunter,2014,486,4,486,Justice League,482.0
+9766,76025-1,Green Lantern vs. Sinestro,2015,486,174,486,Justice League,482.0
+9767,76026-1,Gorilla Grodd Goes Bananas,2015,486,346,486,Justice League,482.0
+9768,76027-1,Black Manta Deep Sea Strike,2015,486,386,486,Justice League,482.0
+9769,76028-1,Darkseid Invasion,2015,486,543,486,Justice League,482.0
+9770,76040-1,Brainiac Attack,2015,486,178,486,Justice League,482.0
+9771,comcon013-1,Super Heroes Unite - Green Lantern - San Diego Comic-Con 2011 Exclusive,2011,486,4,486,Justice League,482.0
+9772,comcon016-1,Super Heroes Unite - Green Lantern - New York Comic-Con 2011 Exclusive,2011,486,4,486,Justice League,482.0
+9773,comcon020-1,Super Heroes Unite - Shazam Captain Marvel - San Diego Comic-Con 2012 Exclusive,2012,486,1,486,Justice League,482.0
+9774,comcon022-1,Super Heroes Unite - Bizarro - San Diego Comic-Con 2012 Exclusive,2012,486,1,486,Justice League,482.0
+9775,comcon030-1,Green Arrow - San Diego Comic-Con 2013 Exclusive,2013,486,1,486,Justice League,482.0
+9776,5002145-1,Rocket Raccoon,2014,483,12,483,Guardians of the Galaxy,482.0
+9777,76019-1,Starblaster Showdown,2014,483,195,483,Guardians of the Galaxy,482.0
+9778,76020-1,Knowhere Escape Mission,2014,483,432,483,Guardians of the Galaxy,482.0
+9779,76021-1,The Milano Spaceship Rescue,2014,483,664,483,Guardians of the Galaxy,482.0
+9780,76079-1,Ravager Attack,2017,483,196,483,Guardians of the Galaxy,482.0
+9781,76080-1,Ayesha's Revenge,2017,483,304,483,Guardians of the Galaxy,482.0
+9782,76081-1,The Milano vs. The Abilisk,2017,483,456,483,Guardians of the Galaxy,482.0
+9783,comcon034-1,Rocket Raccoon’s Warbird,2014,483,145,483,Guardians of the Galaxy,482.0
+9784,comcon035-1,The Collector - San Diego Comic-Con 2014 Exclusive,2014,483,8,483,Guardians of the Galaxy,482.0
+9785,5002939-1,The Phantom,2015,182,23,182,Star Wars Rebels,158.0
+9786,5004408-1,Rebel A-wing Pilot,2016,182,5,182,Star Wars Rebels,158.0
+9787,66512-1,"Star Wars Super Pack 2 in 1 (75048, 75053)",2014,182,2,182,Star Wars Rebels,158.0
+9788,75048-1,The Phantom,2014,182,233,182,Star Wars Rebels,158.0
+9789,75053-1,The Ghost,2014,182,927,182,Star Wars Rebels,158.0
+9790,75078-1,Imperial Troop Transport,2015,182,141,182,Star Wars Rebels,158.0
+9791,75082-1,TIE Advanced Prototype,2015,182,354,182,Star Wars Rebels,158.0
+9792,75083-1,AT-DP,2015,182,498,182,Star Wars Rebels,158.0
+9793,75084-1,Wookiee Gunship,2015,182,568,182,Star Wars Rebels,158.0
+9794,75090-1,Ezra's Speeder Bike,2015,182,267,182,Star Wars Rebels,158.0
+9795,75090-2,Ezra's Speeder Bike,2015,182,253,182,Star Wars Rebels,158.0
+9796,75106-1,Imperial Assault Carrier,2015,182,1214,182,Star Wars Rebels,158.0
+9797,75128-1,TIE Advanced Prototype,2016,182,93,182,Star Wars Rebels,158.0
+9798,75129-1,Wookiee Gunship,2016,182,84,182,Star Wars Rebels,158.0
+9799,75130-1,AT-DP,2016,182,76,182,Star Wars Rebels,158.0
+9800,75141-1,Kanan's Speeder Bike,2016,182,226,182,Star Wars Rebels,158.0
+9801,75150-1,Vader’s TIE Advanced vs. A-Wing Starfighter,2016,182,700,182,Star Wars Rebels,158.0
+9802,75157-1,Captain Rex’s AT-TE,2016,182,969,182,Star Wars Rebels,158.0
+9803,75158-1,Rebel Combat Frigate,2016,182,934,182,Star Wars Rebels,158.0
+9804,75170-1,The Phantom,2017,182,267,182,Star Wars Rebels,158.0
+9805,comcon039-1,The Ghost Starship,2014,182,127,182,Star Wars Rebels,158.0
+9806,SW911509-1,Imperial Shooter,2015,182,20,182,Star Wars Rebels,158.0
+9807,SW911719-1,Kanan Jarrus foilpack,2017,182,6,182,Star Wars Rebels,158.0
+9808,SW911720-1,The Ghost,2017,182,50,182,Star Wars Rebels,158.0
+9809,SW911724-1,A-Wing,2017,182,47,182,Star Wars Rebels,158.0
+9890,5378-1,Hogwarts Castle (3rd edition),2007,249,904,249,Order of the Phoenix,246.0
+10045,6205-1,V-wing Fighter,2006,168,118,168,Star Wars Episode 3,158.0
+10046,65771-1,Episode III Collectors' Set,2005,168,5,168,Star Wars Episode 3,158.0
+10047,65844-1,Star Wars Co-Pack of 7255 4492 and 4494,2005,168,3,168,Star Wars Episode 3,158.0
+10048,65845-1,Star Wars Co-Pack of 7256 4492 and 4494,2005,168,3,168,Star Wars Episode 3,158.0
+10049,7250-1,Clone Scout Walker,2005,168,109,168,Star Wars Episode 3,158.0
+10050,7251-1,Darth Vader Transformation,2005,168,60,168,Star Wars Episode 3,158.0
+10051,7252-1,Droid Tri-Fighter,2005,168,147,168,Star Wars Episode 3,158.0
+10052,7255-1,General Grievous Chase,2005,168,112,168,Star Wars Episode 3,158.0
+10053,7256-1,Jedi Starfighter & Vulture Droid,2005,168,202,168,Star Wars Episode 3,158.0
+10054,7257-1,Ultimate Lightsaber Duel,2005,168,278,168,Star Wars Episode 3,158.0
+10055,7258-1,Wookiee Attack,2005,168,368,168,Star Wars Episode 3,158.0
+10056,7259-1,ARC-170 Starfighter,2005,168,401,168,Star Wars Episode 3,158.0
+10057,7260-1,Wookiee Catamaran,2005,168,381,168,Star Wars Episode 3,158.0
+10058,7261-1,Clone Turbo Tank [Light-Up Mace Windu],2005,168,803,168,Star Wars Episode 3,158.0
+10059,7261-2,Clone Turbo Tank (with Non-Light-Up Mace Windu),2006,168,814,168,Star Wars Episode 3,158.0
+10060,7283-1,Ultimate Space Battle,2005,168,540,168,Star Wars Episode 3,158.0
+10061,75015-1,Corporate Alliance Tank Droid,2013,168,271,168,Star Wars Episode 3,158.0
+10062,75135-1,Obi-Wan's Jedi Interceptor,2016,168,212,168,Star Wars Episode 3,158.0
+10063,75151-1,Clone Turbo Tank,2016,168,902,168,Star Wars Episode 3,158.0
+10064,75182-1,Republic Fighter Tank,2017,168,302,168,Star Wars Episode 3,158.0
+10065,7654-1,Droids Battle Pack,2007,168,102,168,Star Wars Episode 3,158.0
+10066,7655-1,Clone Troopers Battle Pack,2007,168,58,168,Star Wars Episode 3,158.0
+10067,7656-1,General Grievous Starfighter,2007,168,232,168,Star Wars Episode 3,158.0
+10068,7661-1,Jedi Starfighter with Hyperdrive Booster Ring,2007,168,574,168,Star Wars Episode 3,158.0
+10069,7671-1,AT-AP Walker,2008,168,392,168,Star Wars Episode 3,158.0
+10070,7678-1,Droid Gunship,2008,168,323,168,Star Wars Episode 3,158.0
+10071,7915-1,Imperial V-wing Starfighter,2011,168,138,168,Star Wars Episode 3,158.0
+10072,8093-1,Plo Koon’s Jedi Starfighter,2010,168,174,168,Star Wars Episode 3,158.0
+10073,8096-1,Emperor Palpatine’s Shuttle,2010,168,591,168,Star Wars Episode 3,158.0
+10074,9494-1,Anakin's Jedi Interceptor,2012,168,299,168,Star Wars Episode 3,158.0
+10075,9526-1,Palpatine’s Arrest,2012,168,646,168,Star Wars Episode 3,158.0
+10076,K7283-1,V-wing Space Battle Collection,2005,168,3,168,Star Wars Episode 3,158.0
+10077,sw117promo-1,Darth Vader Polybag - 56. International Toy Fair Nuernberg (N├╝rnberg),2005,168,2,168,Star Wars Episode 3,158.0
+10078,tf05-1,Lego Toy Fair 2005 Star Wars V.I.P. Gala Set,2005,168,38,168,Star Wars Episode 3,158.0
+10356,6866-1,Wolverine's Chopper Showdown,2012,491,199,491,X-Men,482.0
+10357,76022-1,X-Men vs. The Sentinel,2014,491,335,491,X-Men,482.0
+10358,comcon021-1,Super Heroes Unite - Phoenix Jean Gray - San Diego Comic-Con 2012 Exclusive,2012,491,5,491,X-Men,482.0
+10832,7195-1,Ambush in Cairo,2009,267,79,267,Raiders of the Lost Ark,264.0
+10833,7621-1,Lost Tomb,2008,267,277,267,Raiders of the Lost Ark,264.0
+10834,7622-1,Race for the Stolen Treasure,2008,267,275,267,Raiders of the Lost Ark,264.0
+10835,7623-1,Temple Escape,2008,267,553,267,Raiders of the Lost Ark,264.0
+10836,7683-1,Fight on the Flying Wing,2009,267,375,267,Raiders of the Lost Ark,264.0
+10837,7197-1,Venice Canal Chase,2009,266,420,266,Last Crusade,264.0
+10838,7198-1,Fighter Plane Attack,2009,266,383,266,Last Crusade,264.0
+10839,7620-1,Motorcycle Chase,2008,266,79,266,Last Crusade,264.0
+10840,7199-1,Temple of Doom,2009,268,652,268,Temple of Doom,264.0
+10841,7682-1,Shanghai Chase,2009,268,244,268,Temple of Doom,264.0
+10885,75006-1,LEGO Star Wars Jedi Starfighter and Kamino,2013,180,61,180,Planet Series 4,158.0
+10886,75008-1,LEGO Star Wars TIE Bomber and Asteroid Field,2013,180,60,180,Planet Series 4,158.0
+10992,75079-1,Shadow Troopers,2015,183,95,183,Star Wars Expanded Universe,158.0
+10993,75088-1,Senate Commando Troopers,2015,183,106,183,Star Wars Expanded Universe,158.0
+10994,75089-1,Geonosis Troopers,2015,183,105,183,Star Wars Expanded Universe,158.0
+10995,75166-1,First Order Transport Speeder Battle Pack,2017,612,115,612,Star Wars Episode 8,158.0
+10996,75183-1,"Darth Vader"" Transformation",2017,179,290,179,Planet Series 3,158.0
+11079,76023-1,The Tumbler,2014,485,1866,485,Ultimate Collector Series,484.0
+11080,7784-1,The Batmobile Ultimate Collectors' Edition,2006,485,1045,485,Ultimate Collector Series,484.0
+11099,79005-1,The Wizard Battle,2013,567,113,567,The Fellowship of the Ring,566.0
+11100,79006-1,The Council of Elrond,2013,567,242,567,The Fellowship of the Ring,566.0
+11101,9469-1,Gandalf Arrives,2012,567,83,567,The Fellowship of the Ring,566.0
+11102,9472-1,Attack on Weathertop,2012,567,429,567,The Fellowship of the Ring,566.0
+11103,9473-1,The Mines of Moria,2012,567,780,567,The Fellowship of the Ring,566.0
+11104,79007-1,Battle at the Black Gate,2013,569,655,569,The Return of the King,566.0
+11105,79008-1,Pirate Ship Ambush,2013,569,754,569,The Return of the King,566.0
+11106,9470-1,Shelob Attacks,2012,569,227,569,The Return of the King,566.0
+11666,comcon031-1,Azog - San Diego Comic-Con 2013 Exclusive,2013,562,6,562,The Hobbit,561.0
+11667,comcon038-1,Bard the Bowman,2014,562,5,562,The Hobbit,561.0
